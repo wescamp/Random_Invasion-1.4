@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-07-07 22:44+0200\n"
+"PO-Revision-Date: 2008-07-07 22:44+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [scenario]
+#: Random_Invasion/scenarios/random_map.cfg:7
+#: Random_Invasion/scenarios/random_map.cfg:10
+msgid "Random map (Enhanced)"
+msgstr ""
+
+#: Random_Invasion/scenarios/random_map.cfg:8
+msgid ""
+"Randomly generated map. Note: random maps are often unbalanced, but if you "
+"have time, you can regenerate them until you get a good one."
+msgstr ""
+
+#. [scenario]
+#: Random_Invasion/utils/random_invasion.cfg:81
+msgid "p - "
+msgstr ""
+
+#. [scenario]
+#: Random_Invasion/utils/random_invasion.cfg:81
+#: Random_Invasion/utils/random_invasion.cfg:82
+#: Random_Invasion/utils/random_invasion.cfg:224
+#: Random_Invasion/utils/random_invasion.cfg:225
+msgid "Invasion ("
+msgstr ""
+
+#. [scenario]
+#: Random_Invasion/utils/random_invasion.cfg:81
+msgid ")"
+msgstr ""
+
+#. [scenario]
+#: Random_Invasion/utils/random_invasion.cfg:82
+msgid " players) on "
+msgstr ""
+
+#. [objective]: condition=win
+#: Random_Invasion/utils/random_invasion.cfg:102
+msgid "Survive the longer or defeat your ennemies"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Random_Invasion/utils/random_invasion.cfg:106
+msgid "Lose your leader"
+msgstr ""
+
+#. [objectives]
+#: Random_Invasion/utils/random_invasion.cfg:109
+msgid "Waves of monsters will be generated"
+msgstr ""
+
+#. [set_variable]
+#: Random_Invasion/utils/random_invasion.cfg:179
+msgid "$wave_count new waves have been spawned!"
+msgstr ""
+
+#. [set_variable]
+#: Random_Invasion/utils/random_invasion.cfg:185
+msgid "A new wave has been spawned!"
+msgstr ""
+
+#: Random_Invasion/utils/random_invasion.cfg:224
+#: Random_Invasion/utils/random_invasion.cfg:225
+msgid " - "
+msgstr ""
+
+#: Random_Invasion/utils/random_invasion.cfg:224
+msgid "p - Random Map)"
+msgstr ""
+
+#: Random_Invasion/utils/random_invasion.cfg:225
+msgid " players) on a random map."
+msgstr ""
+
+#: Random_Invasion/utils/random_invasion.cfg:226
+msgid "Random Map"
+msgstr ""
+
+#: Random_Invasion/utils/random_invasion.cfg:226
+msgid "on a random map."
+msgstr ""
+
+#. [naming]
+#. [village_naming]
+#: Random_Invasion/utils/selfish_names.cfg:3
+#: Random_Invasion/utils/selfish_names.cfg:7
+msgid ""
+"(S)Elfish,Elvish,Dwarvish,Orcish,Cake,Cheese,Fish,Spoon,Chocolate,Freak,"
+"Treehugging,Troll,Wose,Glows,Ghost,Fellow,Hairy,Mortal,Candy,Dark Adept,"
+"Haircutter,Mushroom,Onion,Apple,Carrot,Orange,Seed,Nut,Corn Flakes,Patterson,"
+"Oscar Wilde,Mars,Pillager,Moon,Chess,Beard,Midget,Flower,Fairy,Milk,Bloody,"
+"(C)opyright,Lawsuit,Gnu,Woodcutter,Dork,Flying,Spaghetti,Leet,Squirrel,"
+"Dragon,Hammer,Pig,Gun,Death,Force,Doom,Pizza,Frog,Fried Chicken,Fries,Cookie,"
+"Pink,Folk,Stonehenge,Wookie,Potatoes"
+msgstr ""
