@@ -3,25 +3,30 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-07-07 22:44+0200\n"
-"PO-Revision-Date: 2008-07-07 22:44+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2008-07-14 02:01+0100\n"
+"Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-Language: Slovak\n"
+"X-Poedit-Country: SLOVAKIA\n"
 
 #. [scenario]
 #: Random_Invasion/scenarios/random_map.cfg:7
 #: Random_Invasion/scenarios/random_map.cfg:10
 msgid "Random map (Enhanced)"
-msgstr ""
+msgstr "Náhodná mapa (vylepšená)"
 
 #: Random_Invasion/scenarios/random_map.cfg:8
 msgid ""
 "Randomly generated map. Note: random maps are often unbalanced, but if you "
 "have time, you can regenerate them until you get a good one."
 msgstr ""
+"Náhodne vygenerovaná mapa. Poznámka: náhodné mapy bývajú často nevyvážené, "
+"ale ak máte dostatok času, môžete ich znovu generovať, až kým nedostanete "
+"nejakú dobrú."
 
 #. [scenario]
 #: Random_Invasion/utils/random_invasion.cfg:81
@@ -34,7 +39,7 @@ msgstr ""
 #: Random_Invasion/utils/random_invasion.cfg:224
 #: Random_Invasion/utils/random_invasion.cfg:225
 msgid "Invasion ("
-msgstr ""
+msgstr "Invázia ("
 
 #. [scenario]
 #: Random_Invasion/utils/random_invasion.cfg:81
@@ -44,32 +49,32 @@ msgstr ""
 #. [scenario]
 #: Random_Invasion/utils/random_invasion.cfg:82
 msgid " players) on "
-msgstr ""
+msgstr " hráčov) na "
 
 #. [objective]: condition=win
 #: Random_Invasion/utils/random_invasion.cfg:102
 msgid "Survive the longer or defeat your ennemies"
-msgstr ""
+msgstr "Prežiješ dlhšie alebo porazíš svojich nepriateľov"
 
 #. [objective]: condition=lose
 #: Random_Invasion/utils/random_invasion.cfg:106
 msgid "Lose your leader"
-msgstr ""
+msgstr "Padne tvoj veliteľ"
 
 #. [objectives]
 #: Random_Invasion/utils/random_invasion.cfg:109
 msgid "Waves of monsters will be generated"
-msgstr ""
+msgstr "Budú sa generovať vlny príšer"
 
 #. [set_variable]
 #: Random_Invasion/utils/random_invasion.cfg:179
 msgid "$wave_count new waves have been spawned!"
-msgstr ""
+msgstr "Vytvorilo sa $wave_count nových vĺn!"
 
 #. [set_variable]
 #: Random_Invasion/utils/random_invasion.cfg:185
 msgid "A new wave has been spawned!"
-msgstr ""
+msgstr "Vytvorila sa nová vlna!"
 
 #: Random_Invasion/utils/random_invasion.cfg:224
 #: Random_Invasion/utils/random_invasion.cfg:225
@@ -78,19 +83,19 @@ msgstr ""
 
 #: Random_Invasion/utils/random_invasion.cfg:224
 msgid "p - Random Map)"
-msgstr ""
+msgstr "p - náhodná mapa)"
 
 #: Random_Invasion/utils/random_invasion.cfg:225
 msgid " players) on a random map."
-msgstr ""
+msgstr " hráčov) na náhodnej mape."
 
 #: Random_Invasion/utils/random_invasion.cfg:226
 msgid "Random Map"
-msgstr ""
+msgstr "Náhodná mapa"
 
 #: Random_Invasion/utils/random_invasion.cfg:226
 msgid "on a random map."
-msgstr ""
+msgstr "na náhodnej mape."
 
 #. [naming]
 #. [village_naming]
