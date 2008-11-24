@@ -1,11 +1,16 @@
+# Danish translation of Random Invasion.
+# Copyright (C) 2008 Wesnoth Development Team and Joe Hansen.
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2008.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-07-07 22:44+0200\n"
-"PO-Revision-Date: 2008-07-07 22:44+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2008-11-17 22:43+0200\n"
+"Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,18 +20,20 @@ msgstr ""
 #: Random_Invasion/scenarios/random_map.cfg:7
 #: Random_Invasion/scenarios/random_map.cfg:10
 msgid "Random map (Enhanced)"
-msgstr ""
+msgstr "Tilfældig kort (Forbedret)"
 
 #: Random_Invasion/scenarios/random_map.cfg:8
 msgid ""
 "Randomly generated map. Note: random maps are often unbalanced, but if you "
 "have time, you can regenerate them until you get a good one."
 msgstr ""
+"Tilfældig udarbejdet kort. Bemærk: Tilfældige kort er ofte ubalancerede, men "
+"hvis du har tid, kan du oprette dem indtil du har et godt kort."
 
 #. [scenario]
 #: Random_Invasion/utils/random_invasion.cfg:81
 msgid "p - "
-msgstr ""
+msgstr "s - "
 
 #. [scenario]
 #: Random_Invasion/utils/random_invasion.cfg:81
@@ -34,63 +41,64 @@ msgstr ""
 #: Random_Invasion/utils/random_invasion.cfg:224
 #: Random_Invasion/utils/random_invasion.cfg:225
 msgid "Invasion ("
-msgstr ""
+msgstr "Invasion ("
 
 #. [scenario]
 #: Random_Invasion/utils/random_invasion.cfg:81
 msgid ")"
-msgstr ""
+msgstr ")"
 
 #. [scenario]
 #: Random_Invasion/utils/random_invasion.cfg:82
 msgid " players) on "
-msgstr ""
+msgstr " spillere) på "
 
+# engelsk fejl her
 #. [objective]: condition=win
 #: Random_Invasion/utils/random_invasion.cfg:102
 msgid "Survive the longer or defeat your ennemies"
-msgstr ""
+msgstr "Overlev længst eller besejr dine fjender"
 
 #. [objective]: condition=lose
 #: Random_Invasion/utils/random_invasion.cfg:106
 msgid "Lose your leader"
-msgstr ""
+msgstr "Mist din leder"
 
 #. [objectives]
 #: Random_Invasion/utils/random_invasion.cfg:109
 msgid "Waves of monsters will be generated"
-msgstr ""
+msgstr "Bølger af monstre dannes"
 
 #. [set_variable]
 #: Random_Invasion/utils/random_invasion.cfg:179
 msgid "$wave_count new waves have been spawned!"
-msgstr ""
+msgstr "$wave_count nye bølger er blevet klækket!"
 
 #. [set_variable]
 #: Random_Invasion/utils/random_invasion.cfg:185
 msgid "A new wave has been spawned!"
-msgstr ""
+msgstr "En ny bølge er blevet klækket!"
 
 #: Random_Invasion/utils/random_invasion.cfg:224
 #: Random_Invasion/utils/random_invasion.cfg:225
 msgid " - "
-msgstr ""
+msgstr " - "
 
 #: Random_Invasion/utils/random_invasion.cfg:224
 msgid "p - Random Map)"
-msgstr ""
+msgstr "s - Tilfældig kort)"
 
 #: Random_Invasion/utils/random_invasion.cfg:225
 msgid " players) on a random map."
-msgstr ""
+msgstr " spillere) på et tilfældig kort."
 
 #: Random_Invasion/utils/random_invasion.cfg:226
 msgid "Random Map"
-msgstr ""
+msgstr "Tilfældig kort"
 
 #: Random_Invasion/utils/random_invasion.cfg:226
 msgid "on a random map."
-msgstr ""
+msgstr "på et tilfældig kort."
 
 #. [naming]
 #. [village_naming]
@@ -105,3 +113,10 @@ msgid ""
 "Dragon,Hammer,Pig,Gun,Death,Force,Doom,Pizza,Frog,Fried Chicken,Fries,Cookie,"
 "Pink,Folk,Stonehenge,Wookie,Potatoes"
 msgstr ""
+"(E)goistisk,Elvisk,Dværgisk,Orkisk,Kage,Ost,Fisk,Ske,Chokolade,Vanskabning,"
+"Træfældning,Trold,Træsjæl,Skinner,Spøgelse,Fyr,Håret,Dødelig,Slik,Mørk "
+"lærling,Frisør,Champignon,Løg,Æble,Gulerod,Appelsin,Såsæd,Nød,Korn flakes,"
+"Patterson,Oscar Wilde,Mars,Plyndrer,Måne,Skak,Skæg,Gnom,Blomst,Fe,Mælk,"
+"Blodig,(O)phavsret,Søgsmål,Gnu,Træskærer,Fjols,Flyvning,Spaghetti,Ret,Egern,"
+"Drage,Hammer,Gris,Pistol,Død,Styrke,Skæbne,Pizza,Frø,Pomfritter,Fritter,Kage,"
+"Lyserød,Folk,Stonehenge,Wookie,Kartofler"
